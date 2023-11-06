@@ -1,5 +1,7 @@
 Moin :) \
-Ich bin Flo, 23 und bin aktuell in einer Weiterbildung zum Data Analyst. Durch die Weiterbildung habe ich den Spaß am Programmieren entdeckt, daher werden hier neben den Projekten aus dem Kurs auch eigene Projekte folgen ^^
+Ich bin Flo, 23 und bin aktuell in einer Weiterbildung zum Data Analyst. Durch die Weiterbildung habe ich den Spaß am Programmieren und Entwickeln entdeckt, daher werden hier neben den Projekten aus dem Kurs auch eigene Projekte folgen ^^
+
+Bei Interesse schaut auch auf meiner Unternehmensseite ![Floia Games](https://github.com/Floia-Games) vorbei :)
 
 # Sprachen
 ![Python](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png)
