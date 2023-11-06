@@ -1,8 +1,7 @@
-<h1>
+<h1 style="text-align: center;">
   Moooin xD
-  <center>
-    <img src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif" />
-  </center>
+  <br>
+  <img src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif" />
 </h1>
 
 
