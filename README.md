@@ -1,9 +1,3 @@
-<h1 style="text-align: center;">
-  Moooin xD
-  <br>
-  <img src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif" />
-</h1>
-
 
 Mooin :)\
 Ich bin Flo, 23 und bin aktuell in einer Weiterbildung zum Data Analyst. Durch die Weiterbildung habe ich den Spaß am Programmieren und Entwickeln entdeckt, daher werden hier neben den Projekten aus dem Kurs auch eigene Projekte folgen ^^ 
