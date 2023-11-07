@@ -17,6 +17,7 @@ Bei Interesse schaut auch auf meiner Unternehmensseite [Floia Games](https://git
 
 ### Am herumprobieren
 ![HTML](https://th.bing.com/th/id/OIP.vC4V_eKv2aitz20pqW89tgAAAA?pid=ImgDet&w=128&h=128&rs=1)
+![CSS](https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-128.png)
 
 ---
 
