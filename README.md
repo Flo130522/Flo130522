@@ -33,6 +33,7 @@ Bei Interesse schaut auch auf meiner Unternehmensseite [Floia Games](https://git
 
 ## :fire: Meine Stats
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=flo130522&theme=dark&background=000000)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flo130522&layout=compact&theme=vision-friendly-dark)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=flo130522&show_icons=true&theme=great-gatsby)](https://github.com/flo130522?tab=repositories)
 
 ---
 
