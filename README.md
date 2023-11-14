@@ -18,15 +18,36 @@ Bei Interesse schaut auch auf meiner Unternehmensseite [Floia Games](https://git
 ---
 
 ## :hammer_and_wrench: Sprachen und Tools
+### Frontend-Sprachen
 <div>
-<img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original-wordmark.svg' width='40' height='40'>
-<img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/jupyter/jupyter-original-wordmark.svg' width='40' height='40'>
 <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original-wordmark.svg' width='40' height='40'>
 <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original-wordmark.svg' width='40' height='40'>
+</div>
+
+### Backend-Sprachen
+<div>
+<img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original-wordmark.svg' width='40' height='40'>
+</div>
+
+### Tools
+#### Programmieren
+<div>
+<img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/jupyter/jupyter-original-wordmark.svg' width='40' height='40'>
 <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vscode/vscode-original.svg' width='40' heigt='40'>
+<img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/visualstudio/visualstudio-plain.svg' width='40' height='40'>
 <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/numpy/numpy-original.svg' width='40' heigt='40'>
-<img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original.svg' width='40' heigt='40'>
 <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/pandas/pandas-original.svg' width='40' heigt='40'>
+<img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/anaconda/anaconda-original.svg' width='40' height='40'>
+<img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/github/github-original.svg' width='40' height='40'>
+<img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/pytest/pytest-original.svg' width='40' height='40'>
+
+</div>
+
+#### Sonstige Tools
+<div>
+<img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original.svg' width='40' heigt='40'>
+<img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/canva/canva-original.svg' width='40' height='40'>
+
 </div>
 
 ---
