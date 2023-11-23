@@ -40,6 +40,9 @@ Bei Interesse schaut auch auf meiner Unternehmensseite [Floia Games](https://git
 <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/anaconda/anaconda-original.svg' width='40' height='40'>
 <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/github/github-original.svg' width='40' height='40'>
 <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/pytest/pytest-original.svg' width='40' height='40'>
+<img src='https://tse2.mm.bing.net/th/id/OIP.4Q6TieQdUAk5Gci6F9fSsAHaHa?rs=1&pid=ImgDetMain' width='40' height='40'>
+<img src='https://dwglogo.com/wp-content/uploads/2018/03/SQLite_Vector_logo-1024x705.png' width='40' height='40'>
+
 
 </div>
 
