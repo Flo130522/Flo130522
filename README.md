@@ -5,7 +5,7 @@
 
 ## :man_technologist: Über mich
 Mooin :)\
-Ich bin Flo, 23 und bin aktuell in einer Weiterbildung zum Data Analyst. Durch die Weiterbildung habe ich den Spaß am Programmieren und Entwickeln entdeckt, daher werden hier neben den Projekten aus dem Kurs auch eigene Projekte folgen ^^ 
+Ich bin Flo, 24 und bin aktuell in einer Weiterbildung zum Data Analyst. Durch die Weiterbildung habe ich den Spaß am Programmieren und Entwickeln entdeckt, daher werden hier neben den Projekten aus dem Kurs auch eigene Projekte folgen ^^ 
 
 Bei Interesse schaut auch auf meiner Unternehmensseite [Floia Games](https://github.com/Floia-Games) vorbei, da ich hier gemeinsam mit meiner Verlobte ein Spiel programmiere!
 
