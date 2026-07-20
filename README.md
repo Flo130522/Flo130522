@@ -1,68 +1,68 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
+# Hey, ich bin Flo 👋
 
-## :man_technologist: Über mich
-Mooin :)\
-Ich bin Flo, 24 und bin aktuell in einer Weiterbildung zum Data Analyst. Durch die Weiterbildung habe ich den Spaß am Programmieren und Entwickeln entdeckt, daher werden hier neben den Projekten aus dem Kurs auch eigene Projekte folgen ^^ 
+### Data Analyst · Python Developer · Problemlöser
 
-Bei Interesse schaut auch auf meiner Unternehmensseite [Floia Games](https://github.com/Floia-Games) vorbei, da ich hier gemeinsam mit meiner Verlobte ein Spiel programmiere!
+Ich verwandle Daten in Erkenntnisse und Ideen in funktionierenden Code.
 
-<div id="badges"> <img src="https://komarev.com/ghpvc/?username=flo130522&style=flat-square&color=blue" alt=""/>
-  <a href="https://www.linkedin.com/in/flokurek/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
----
-
-## :hammer_and_wrench: Sprachen und Tools
-### Frontend-Sprachen
-<div>
-<img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original-wordmark.svg' width='40' height='40'>
-<img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original-wordmark.svg' width='40' height='40'>
-</div>
-
-### Backend-Sprachen
-<div>
-<img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original-wordmark.svg' width='40' height='40'>
-</div>
-
-### Tools
-#### Programmieren
-<div>
-<img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/jupyter/jupyter-original-wordmark.svg' width='40' height='40'>
-<img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vscode/vscode-original.svg' width='40' heigt='40'>
-<img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/visualstudio/visualstudio-plain.svg' width='40' height='40'>
-<img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/numpy/numpy-original.svg' width='40' heigt='40'>
-<img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/pandas/pandas-original.svg' width='40' heigt='40'>
-<img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/anaconda/anaconda-original.svg' width='40' height='40'>
-<img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/github/github-original.svg' width='40' height='40'>
-<img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/pytest/pytest-original.svg' width='40' height='40'>
-<img src='https://tse2.mm.bing.net/th/id/OIP.4Q6TieQdUAk5Gci6F9fSsAHaHa?rs=1&pid=ImgDetMain' width='40' height='40'>
-<img src='https://dwglogo.com/wp-content/uploads/2018/03/SQLite_Vector_logo-1024x705.png' width='40' height='40'>
-
-
-</div>
-
-#### Sonstige Tools
-<div>
-<img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original.svg' width='40' heigt='40'>
-<img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/canva/canva-original.svg' width='40' height='40'>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flokurek/)
+[![Profile Views](https://komarev.com/ghpvc/?username=flo130522&style=for-the-badge&color=blueviolet)](https://github.com/Flo130522)
 
 </div>
 
 ---
 
-## :fire: Meine Stats
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=flo130522&theme=dark&background=000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flo130522&layout=compact&theme=vision-friendly-dark)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=flo130522&show_icons=true&theme=great-gatsby)](https://github.com/flo130522?tab=repositories)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@flo130522)](https://github.com/anuraghazra/github-readme-stats)
+## Über mich
 
+```python
+flo = {
+    "focus": ["Data Analytics", "Python", "Software Development"],
+    "currently": "Aus Daten echte Antworten bauen",
+    "mindset": "Learn. Build. Improve.",
+}
+```
+
+Meine Reise begann im Data-Analytics-Bereich – geblieben bin ich wegen der
+Freude am Programmieren, Experimentieren und Entwickeln. Hier findest du
+Kursprojekte, Datenanalysen und eigene Ideen, die Schritt für Schritt Realität
+werden.
+
+## Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+
+</div>
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Flo130522&show_icons=true&hide_border=true&theme=tokyonight" alt="Flos GitHub-Statistiken">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flo130522&layout=compact&hide_border=true&theme=tokyonight" alt="Flos meistgenutzte Sprachen">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Flo130522&hide_border=true&theme=tokyonight" alt="Flos GitHub-Streak">
+
+</div>
 
 ---
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<div align="center">
 
+### Build something that matters.
+
+</div>
