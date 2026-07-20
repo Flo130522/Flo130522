@@ -52,8 +52,6 @@ werden.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Flo130522&show_icons=true&hide_border=true&theme=tokyonight" alt="Flos GitHub-Statistiken">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flo130522&layout=compact&hide_border=true&theme=tokyonight" alt="Flos meistgenutzte Sprachen">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Flo130522&hide_border=true&theme=tokyonight" alt="Flos GitHub-Streak">
 
